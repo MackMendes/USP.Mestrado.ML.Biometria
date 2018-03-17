@@ -81,3 +81,6 @@ Depois de realizar o Holdout ou qualquer outro procedimento para divisão do dat
 		test : é o subset de teste
 		target : é a saída desejada para os dados de teste
 		k : número de vizinhos próximos desejado
+		
+--------------------------		
+Desenvolvido por Andrei Martins, Charles Mendes, Fernando Costa e William Conceição.
